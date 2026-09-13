@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const mapPreview = document.getElementById("mapPreview");
   const bgMusic = document.getElementById("bgMusic");
   const soundToggle = document.getElementById("soundToggle");
-  const venueMapsUrl = "https://maps.app.goo.gl/6bfMANcnEfYJ6WGE6";
+  const venueMapsUrl = "https://maps.app.goo.gl/3VXpTDkipU1bU3A4A?g_st=ac";
   const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   let envelopeOpened = false;
